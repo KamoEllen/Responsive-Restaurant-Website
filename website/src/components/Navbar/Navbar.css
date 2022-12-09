@@ -1,7 +1,7 @@
 .app_navbar {
     width: 100%;
     display: flex;
-   justify-content: space-between;
+    justify-content: space-between;
     align-items: center;
     background: var(--color-black);
     padding: 1rem 2rem;
@@ -33,6 +33,3 @@
 }
 .app_navbar-links li:hover{
     color: var(--color-grey)
-    border: 2px solid black;
-}
-
